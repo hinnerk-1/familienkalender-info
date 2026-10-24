@@ -1,0 +1,4 @@
+body { max-width: 640px; margin: 48px auto; padding: 0 20px; font: 17px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; color: #2b2822; background: #f5efe3; }
+h1 { font-size: 30px; line-height: 1.2; } h2 { font-size: 20px; margin-top: 32px; }
+a { color: #b5482f; }
+footer { margin-top: 48px; font-size: 14px; color: #7d7466; }
